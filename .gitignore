@@ -1,4 +1,4 @@
-## SugarCRM
+# SugarCRM
 # Ignore custom .htaccess stuff.
 /.htaccess
 # Ignore the cache directory completely.
